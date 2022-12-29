@@ -6,3 +6,7 @@ static void main(string[] args){
 static void GreetWhite(){
     Console.WriteLine("hello white");
 }
+
+static void GreetBlack(){
+    Console.WriteLine("hello black");
+}
